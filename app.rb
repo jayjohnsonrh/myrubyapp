@@ -3,8 +3,7 @@ require 'sinatra'
 
 get '/' do
 
-print <<EOF
-<!doctype html>
+"<!doctype html>
 <html lang='en'>
 <head>
   <meta charset='utf-8'>
@@ -155,12 +154,11 @@ print <<EOF
       You could get help in the <a href='http://www.openshift.com/forums/openshift'>OpenShift forums</a>, or
     </li>
     <li>
-      You're welcome to come chat with us in our IRC channel at #openshift on freenode.net
+      Youre welcome to come chat with us in our IRC channel at #openshift on freenode.net
     </li>
   </ul>
 </body>
-</html>
-EOF
+</html>"
 
 
 end
