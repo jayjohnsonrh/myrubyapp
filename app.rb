@@ -2,7 +2,7 @@ require 'rubygems'
 require 'sinatra'
 
 get '/' do
-  "the time where this server lives is #{Time.now}
+  "CHANGED the time where this server lives is #{Time.now}
     <br /><br />check out your <a href=\"/agent\">user_agent</a>"
 end
 
