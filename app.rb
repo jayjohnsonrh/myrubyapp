@@ -127,7 +127,7 @@ get '/' do
     <div class='brand-text'><strong>Open</strong>Shift</div>
   </a>
   <h1>
-    Welcome to OpenShift -- Jay's Demo App - Landing Page - Updated - 10/17/2013
+    Welcome to OpenShift -- Jay's Demo App - Landing Page - Updated - 10/17/2013 2
   </h1>
   <p>
     Place your application here
